@@ -33,7 +33,7 @@ To get started with this project, you will need the following:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
     ```bash
-    git clone https://github.com/yourusername/home-automation-iot.git
+    git clone https://github.com/YaranaIotGuru/home-automation-firebase-iot.git
     ```
 
 2. **Firebase Setup**: Set up your Firebase project and obtain the necessary configuration details (API key, project ID, etc.). Update the `config.php` file with these details.
