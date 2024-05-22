@@ -1,12 +1,13 @@
-  var firebaseConfig = {
-        apiKey: "AIzaSyASlxbE-mAJpeIf4Lv3BRCYQjCZ-zH5H-Y",
-        authDomain: "yarana-smart-home.firebaseapp.com",
-        projectId: "yarana-smart-home",
-        storageBucket: "yarana-smart-home.appspot.com",
-        messagingSenderId: "304442933421",
-        appId: "1:304442933421:web:bc8c5472cdba380a7fc624",
-        measurementId: "G-421VM0K8YG"
-    };
+const firebaseConfig = {
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_ PROJECT_NAME.firebaseapp.com",
+  projectId: "YOUR_PROJECT_NAME",
+  storageBucket: "YOUR_PROJECT_NAME.appspot.com",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "1:YOUR_APP_ID:web:RANDOM_STRING",
+  measurementId: "G-YOUR_MEASUREMENT_ID",
+  databaseURL: "https://YOUR_PROJECT_NAME-default-rtdb.firebaseio.com"
+};
 
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
