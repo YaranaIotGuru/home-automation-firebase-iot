@@ -58,7 +58,7 @@ Click on the thumbnail above to watch the video.
 
 This project is created and maintained by Yarana IoT Guru. Subscribe to our YouTube channel for more tutorials and projects related to IoT and home automation.
 
-[![Yarana IoT Guru](https://img.youtube.com/vi/aI7BSSgVvqU/1.jpg)](https://www.youtube.com/channel/UCR1B...)
+[![Yarana IoT Guru](https://img.youtube.com/vi/aI7BSSgVvqU/1.jpg)](https://www.youtube.com/@YaranaIotGuru)
 
 ## License
 
